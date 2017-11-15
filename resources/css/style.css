@@ -1,5 +1,6 @@
 html {
   font-family: Verdana;
+  /* Redline specifies font-weight normal but design mock-up shows a lighter weight, likely 300. I've stuck to the redline.*/
   font-weight: normal;
   color: #fff;
   background-color: #000;
